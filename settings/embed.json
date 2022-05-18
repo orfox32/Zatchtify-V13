@@ -1,0 +1,9 @@
+{
+    "color": "#36393F",
+    "wrongcolor": "#de5114",
+    "correctcolor": "#00FF00",
+    "check": "✅ | ",
+    "error": "❌ | ",
+    "footertext": "Zatchtify",
+    "footericon": "https://cdn.discordapp.com/avatars/804367400141193218/805a0373857426c3f8f197185383f7a6.webp?size=80"
+  }

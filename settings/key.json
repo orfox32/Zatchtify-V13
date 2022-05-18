@@ -1,0 +1,7 @@
+{
+  "spotify_api": {
+        "enabled": true, 
+        "clientSecret": "2a1512b7eaf54a05b91f64a1c502d0b7",
+        "clientId": "c2af414bcf15432791fac1301978183e"
+  }
+}
